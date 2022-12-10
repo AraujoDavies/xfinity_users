@@ -1,0 +1,5 @@
+venv/
+*.png
+PRUEBA_FULL/
+PRUEBA_XFINITI/
+processo_manual.py
